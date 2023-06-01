@@ -1,0 +1,8 @@
+Name, Rating
+jayden, 344
+j, 8
+f, 9
+Round 1jayden, 344 vs BYE
+j, 8 vs f, 9
+Round 2jayden, 344 vs f, 9
+Winner: jayden, 344
